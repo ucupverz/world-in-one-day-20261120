@@ -2,48 +2,48 @@
 
 What the front page says, story by story, and where each story was reported.
 
-| Region | What the page says | Reported by |
+| # | What the page says | Reported by |
 | --- | --- | --- |
-| EUROPE | Russia fired about 110 missiles and more than 400 drones overnight; bombs struck three bridges over Kyiv's Dnipro; at least eight people were killed | Reuters, BBC |
-| EUROPE | A Russian missile and a drone came down in south-east Poland; the prime minister called it an intentional provocation and NATO called the violation grave | Politico Europe, The Guardian |
-| ASIA | Cyclone Akvan made landfall near Gopalpur in Odisha; about 372,000 people were moved and rain battered West Bengal | India Meteorological Department, The Hindu |
-| GLOBAL | AI and chip shares sold off; the Nasdaq lost 5%, the S&P 500 closed in correction and Anthropic fell about 11% after its debut | Reuters |
-| EUROPE | Britain and the EU signed deals on food trade, carbon-market linkage and youth mobility of 100,000 people a year | Reuters, BBC |
-| AMERICAS | Trump, Xi Jinping and Vladimir Putin met in Shenzhen and said in a joint statement that a nuclear war cannot be won and must never be fought | Reuters, Axios |
-| MIDDLE EAST | The Saudi-led coalition struck Hodeidah; the Houthis said 41 people were killed in 24 hours and missiles were intercepted over Jizan | AP |
-| EUROPE | Students and young workers demonstrated in more than 20 European countries over housing, pay and military spending | France 24, The Guardian |
-| GLOBAL | COP31 in Antalya ran past its Friday deadline; a slimmed-down draft made no mention of fossil fuels | Democracy Now |
-| AFRICA | Somalia ordered the UAE ambassador to leave within 72 hours, citing an "open invasion" of its sovereignty | Middle East Eye |
-| ASIA | South Korea's exports topped one trillion dollars for the first time, on AI chip demand | Anadolu |
-| EUROPE | Estonia approved closing all five road crossings with Russia from 1 December; Moscow warned of a new "Iron Curtain" | Reuters, Euronews |
-| GLOBAL | A trial reported that the pill daraxonrasib stopped tumours growing in nearly every participant | One Turn |
-| AFRICA | The Ebola outbreak in the Democratic Republic of the Congo passed 5,600 deaths, with more than 11,600 confirmed cases | WHO |
-| AMERICAS | The United States lost its measles elimination status after 7,700 cases and 13 deaths | One Turn |
-| AFRICA | Kenya began crude oil drilling in Turkana County, targeting 20,000 barrels a day | The Online Kenyan |
-| OCEANIA | Australia's unemployment rate rose to a five-year high of 4.9% | Anadolu |
-| MIDDLE EAST | The US Treasury sanctioned four Iranian oil trustees over sanctions evasion | Daily Summary Of |
-| EUROPE | Denmark said Russian intelligence plotted to kill the US-Ukrainian rapper Kyivstoner and arrested three men | Daily Summary Of |
-| AMERICAS | Trump threatened a tax on US firms that build data centres abroad | The Hill, ABC Australia |
-| EUROPE | Italy's largest union, CGIL, led a general strike over pay and public spending | Reuters |
-| MIDDLE EAST | Iraqi forces entered Jurf al-Sakhar, a Kataib Hezbollah stronghold, under a deal that sees the group withdraw within a month | Reuters |
-| AMERICAS | A Los Angeles jury convicted Jonathan Rinderknecht of arson over the Palisades Fire at his retrial | One Turn |
-| ASIA | Malaysia said it would resettle 10,000 Rohingya refugees in Turkey | Reuters |
-| EUROPE | French police opened an investigation into Gérard Depardieu and Michel Houellebecq over an alleged 2018 on-set rape and assault | France 24, The Guardian |
-| AMERICAS | The United States and Israel are considering a new short-term assault on Iran, sources said | CBS News |
-| ASIA | Pakistan said it killed 22 militants in raids in Khyber Pakhtunkhwa near the Afghan border | One Turn |
-| AMERICAS | New York's mayor unveiled a plan to close Rikers Island jail by the end of 2032 | NPR, Euronews |
-| AMERICAS | Van Gogh's "Blossoming Chestnut Trees" sold for $190.4m at Sotheby's, a record for the artist | Anadolu |
-| EUROPE | Czechs demonstrated against the prime minister's plan to change how public broadcasters are funded | France 24 |
-| MIDDLE EAST | Israeli forces crossed the Yellow Line in central Gaza, the first such incursion since the truce | One Turn, AP |
-| OCEANIA | A South Australian jury found Raelene Polymiadis guilty of murdering her parents with insulin | ABC Australia |
-| ASIA | A former daycare principal in Yogyakarta was sentenced to five years for abusing children | BBC News |
-| EUROPE | Qatar's emir pledged 15 billion euros of investment in Germany during a Berlin visit | Al Jazeera |
-| AFRICA | Four bodies were recovered after a migrant boat capsized off Senegal's coast; about 50 people were aboard | Daily Summary Of |
-| GLOBAL | The World Food Programme cut its 2027 appeal target to 91 million people | Reuters |
+| 1 | EUROPE Kyiv — Russian missiles hit three bridges over the Dnieper; about 110 missiles and more than 400 drones in one night; at least eight killed | Reuters, BBC |
+| 2 | ASIA Odisha — Cyclone Akvan came ashore near Gopalpur; some 372,000 people moved to shelters; Patrapur took 209 mm of rain | IMD, The Hindu |
+| 3 | ASIA Taipei, Seoul, Tokyo — Taiwan fell 6.2% for its worst week since 1991, Seoul 5.2% and Tokyo 5.1% | Reuters |
+| 4 | EUROPE Brussels — UK and EU signed a reset deal covering food trade, youth visas and a carbon-market link | Reuters, BBC |
+| 5 | WORLD Antalya — COP31 ran past its deadline with no fossil-fuel language in the draft | Democracy Now |
+| 6 | EUROPE Eastern Poland — a Russian missile came down in Poland; the prime minister called it a provocation and two airports paused | Politico Europe, The Guardian |
+| 7 | MIDDLE EAST Central Iraq — Iraqi troops entered Jurf al-Sakhar, a militia stronghold | Reuters |
+| 8 | EUROPE Italy — a general strike over the budget, led by the CGIL | Reuters |
+| 9 | ASIA Tokyo — Japan's inflation picked up to 2.3% | Anadolu |
+| 10 | AMERICAS Washington — the United States lost its measles elimination status | One Turn |
+| 11 | AFRICA Turkana, Kenya — Kenya began drilling for oil, first crude due on 1 December 2026 | The Online Kenyan |
+| 12 | AMERICAS San Salvador — Bukele filed to run for a third term; the vote is on 28 February 2027 | AP |
+| 13 | ASIA Seoul — South Korea's ruling party moved to impeach the chief justice | Reuters |
+| 14 | EUROPE Lviv — a Russian strike on a railway station killed two and injured at least four | One Turn |
+| 15 | EUROPE Estonia — Estonia will shut all five road crossings with Russia on 1 December | Reuters |
+| 16 | EUROPE Denmark — Denmark said Russian intelligence plotted to kill the rapper Kyivstoner and arrested three | Daily Summary Of |
+| 17 | EUROPE Berlin — Berlin pupils struck against military service | Al Jazeera |
+| 18 | EUROPE Czechia — Czechs demonstrated against a change to how public broadcasters are funded | France 24 |
+| 19 | ASIA China — the one-year loan prime rate was kept at 3.0% for an 18th month | Reuters |
+| 20 | ASIA Tokyo — SoftBank closed 14.48% lower and the Nikkei fell 5.06% to 56,436.65 | CNBC |
+| 21 | ASIA Seoul — the Kospi ended the week 7.9% lower | Anadolu |
+| 22 | ASIA Ganjam — 209 mm of rain fell at Patrapur as the cyclone weakened | The Hindu |
+| 23 | MIDDLE EAST Lebanon — Israeli aircraft struck eastern Lebanon and the south | AP |
+| 24 | MIDDLE EAST Yemen — gunmen fired on a cargo ship off the coast, the UKMTO said | UKMTO |
+| 25 | MIDDLE EAST Washington — the US Treasury sanctioned four Iranian oil trustees | Daily Summary Of |
+| 26 | AFRICA Uganda — the health ministry told police to halt rallies in Ebola high-risk districts | Daily Summary Of |
+| 27 | AFRICA Malawi — fuel shortages left motorists queueing hours or all night | Daily Summary Of |
+| 28 | AFRICA Abidjan — the AfDB said 22 African countries face debt distress, 14 at high risk | AfDB |
+| 29 | AFRICA Senegal — four bodies were recovered after a migrant boat capsized, about 50 aboard | Daily Summary Of |
+| 30 | AMERICAS Washington — Trump threatened a tax on US firms that build data centres abroad | The Hill |
+| 31 | AMERICAS New York — the mayor's plan would close Rikers Island jail by the end of 2032 | NPR |
+| 32 | AMERICAS New York — Van Gogh's "Blossoming Chestnut Trees" sold for $190.4m at Sotheby's | Anadolu |
+| 33 | OCEANIA Sydney — Australian shares fell 1.6% in the sell-off | Reuters |
+| 34 | OCEANIA Wellington — Phillips made 118 against India in the first Test | ICC |
+| 35 | WORLD Ankara — Panama asked COP31 to cap world oil output | Anadolu |
 
 ## DATE CHECK
 
 Stories that fell on Thursday 19 November 2026 — the ICJ's ruling that Myanmar committed
 genocide against the Rohingya, the Shenzhen summit's declaration, and Tonga's drought
-emergency — were deliberately left off the page. Every story on the page happened, or was
-first reported, on Friday 20 November 2026.
+emergency — were deliberately left off this page, because a page about one day must carry
+only that day's news. Every story on this page happened, or was first reported, on Friday
+20 November 2026.
