@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/news-image-20261120/ucupverz/world-in-one-day-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 This repository holds one image and one small program. The image is `entry.png`, a dated
-broadsheet-style front page that sums up the world's news of Friday 20 November 2026: 21
+broadsheet-style front page that sums up the world's news of Friday 20 November 2026: 36
 stories across 7 regions, every one of them from that day. `main.ts` is a short Node
 program whose only job is to copy that image to the grader's output directory. The image
 is the entry.
